@@ -1,23 +1,10 @@
 # JavaScript-Shopping-Cart-Feature
 This shopping cart is solely built on Vanilla JavaScript using JSON format data. Items that are added into cart will be stored in local storage.
-## Functionalities
-  •	Login to account. 
-  <br> •	CRUD for customers' booking details.
-  <br> •	Able to reset entered text fields with just a click.
-  <br> •	Validation included. Eg: IC Validation, Check-In/ Check-Out Date, Days of Stay.
-  <br> •	Booking details are saved into [booking.txt](/Hotel-Management-System/Booking.txt).
-  <br> •	Customers' receipt are saved into [receipt.txt](/Hotel-Management-System/receipt.txt).
-  <br> •	Rooms that are booked will be blocked and will not be available for booking.
-  <br> •	Final price is calculated by RM350/day multiplied with service tax of 10%, added with tourism tax of RM10/night.
-  <br> •	Receipt can be printed into PDF format.
-  <br> •	Object Oriented Programming Concepts are used. Eg: Classes, Inheritance, Objects, Encapsulation. 
-  <br> •	Logout from account
 
 ## Getting Started
-1. Install  [Apache Netbeans IDE 12](https://netbeans.apache.org/download/nb120/index.html) for framework.
-2. Import the hotel management system zip file through the File Tab of Apache Netbeans IDE.
-3. Run the system through JAVA Main Class. 
-4. User can also choose to run the application directly through the executable [JAR File](/Hotel-Management-System/dist/hotelroombookingsystem).
+1. Download the source code. 
+2. Run [index.html](/JavaScript-Shopping-Cart-Feature/index.html).
+3. Enjoy! 😃 
 
 
 ## Demos and Screenshot 
