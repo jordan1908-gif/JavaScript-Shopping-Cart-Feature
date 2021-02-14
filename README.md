@@ -19,8 +19,8 @@ This shopping cart is solely built on Vanilla JavaScript using JSON format data.
 -----
 
 <div align="center">
-  <h2>Home Page</h2>
-<img src="images/home.PNG" alt="image">
+  <h2>Edit Quantity</h2>
+<img src="images/editquantity.gif" alt="gif">
 </div>
 
 -----
