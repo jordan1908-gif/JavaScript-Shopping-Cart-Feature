@@ -33,27 +33,9 @@ This shopping cart is solely built on Vanilla JavaScript using JSON format data.
 -----
 
 <div align="center">
-  <h2>View & Search Booking</h2>
-<img src="images/viewbooking.gif" alt="gif">
+  <h2>Local Storage</h2>
+<img src="images/localstorage.PNG" alt="img">
 </div>
 
 -----
 
-<div align="center">
-  <h2>Edit Booking</h2>
-<img src="images/editbooking.gif" alt="gif">
-</div>
-
------
-
-<div align="center">
-  <h2>Delete Booking</h2>
-<img src="images/deletebooking.gif" alt="gif">
-</div>
-
------
-
-<div align="center">
-  <h2>Receipt Page</h2>
-<img src="images/receipt.gif" alt="gif">
-</div>
