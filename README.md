@@ -26,8 +26,8 @@ This shopping cart is solely built on Vanilla JavaScript using JSON format data.
 -----
 
 <div align="center">
-  <h2>Create Booking</h2>
-<img src="images/createbooking.gif" alt="gif">
+  <h2>Remove Item from Cart</h2>
+<img src="images/removeitem.gif" alt="gif">
 </div>
 
 -----
